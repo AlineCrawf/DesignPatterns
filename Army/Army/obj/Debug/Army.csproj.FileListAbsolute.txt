@@ -1,0 +1,7 @@
+D:\Patterns\Army\Army\bin\Debug\Army.exe.config
+D:\Patterns\Army\Army\bin\Debug\Army.exe
+D:\Patterns\Army\Army\bin\Debug\Army.pdb
+D:\Patterns\Army\Army\obj\Debug\Army.csprojAssemblyReference.cache
+D:\Patterns\Army\Army\obj\Debug\Army.csproj.CoreCompileInputs.cache
+D:\Patterns\Army\Army\obj\Debug\Army.exe
+D:\Patterns\Army\Army\obj\Debug\Army.pdb
